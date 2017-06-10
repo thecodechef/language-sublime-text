@@ -1,0 +1,20 @@
+{
+  "name": "language-sublime-text",
+  "version": "0.1.0",
+  "description": "A Language pack from Sublime Text support.",
+  "keywords": [
+    "sublime",
+    "sublime-text",
+    "sublime-settings",
+    "sublime-snippets",
+    "sublime-syntax"
+  ],
+  "repository": "https://github.com/thecodechef/language-sublime-text",
+  "bugs":{
+    "url": "https://github.com/thecodechef/language-sublime-text/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
